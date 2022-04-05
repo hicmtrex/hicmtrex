@@ -104,7 +104,7 @@
 
 </details>
 
-[website]: https://codeSTACKr.com
+[website]: https://hicm-blogs.vercel.app
 [course]: https://hicm-portfolio.netlify.app
 [twitter]: https://twitter.com/hicmtrex
 [youtube]: https://youtube.com/codeSTACKr
