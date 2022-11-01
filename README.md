@@ -8,9 +8,7 @@
 
 :mailbox: Reach me out!
 
-[![Twitter Badge](https://img.shields.io/badge/-@hicmrex-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/hicmrex)](https://twitter.com/hicmrex) [![Linkedin Badge](https://img.shields.io/badge/-hichem-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hichem-bouallegue)[![Mail Badge](https://img.shields.io/badge/-hicmrex-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:hichembouallegue@gmail.com)
-<br />
-
+[![Twitter Badge](https://img.shields.io/badge/-@hicmtrex-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/hicmrex)](https://twitter.com/hicmtrex) [![Linkedin Badge](https://img.shields.io/badge/-hichem-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hichem-bouallegue) [![Mail Badge](https://img.shields.io/badge/-hicmtrex-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:hichembouallegue@gmail.com)
 <br />
 
 #### Top Technologies
