@@ -2,13 +2,13 @@
 
 ## I'm a Full Stack Developer 👨‍💻⚡
 
-💻 Most used line of code git commit -m "Initial Commit"
-📫 How to reach me: islempenywis@gmail.com.
-⚡ Fun fact: I like horror movies 🎬 and going to Gym 🏋️
+- 💻 Most used line of code git commit -m "Initial Commit"
+- 📫 How to reach me: islempenywis@gmail.com.
+- ⚡ Fun fact: I like horror movies 🎬 and going to Gym 🏋️
 
 :mailbox: Reach me out!
 
-[![Twitter Badge](https://img.shields.io/badge/-@Ipenywis-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/hicmrex) [![Mail Badge](https://img.shields.io/badge/-CoderOne-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)] [![Linkedin Badge](https://img.shields.io/badge/-Islem-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hichem-bouallegue) [![Mail Badge](https://img.shields.io/badge/-@islempenywis-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)][![Mail Badge](https://img.shields.io/badge/-islempenywis-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:hichembouallegue@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@hicmrex-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/hicmrex)](https://twitter.com/hicmrex) [![Linkedin Badge](https://img.shields.io/badge/-hichem-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hichem-bouallegue)[![Mail Badge](https://img.shields.io/badge/-hicmrex-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:hichembouallegue@gmail.com)
 <br />
 
 <br />
