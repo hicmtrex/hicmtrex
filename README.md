@@ -21,3 +21,12 @@
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-Laravel-e535ab?style=for-the-badge&labelColor=black&logo=php&logoColor=e535ab)](#)
 
 <br />
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/hicmtrex"><img src="https://github-readme-stats.vercel.app/api?username=hicmtrex&show_icons=true&hide=contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="hicmtrex's GitHub stats" /></a>
+
+
+### Support Me
+
+<a href="https://www.buymeacoffee.com/hicmtrex"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
