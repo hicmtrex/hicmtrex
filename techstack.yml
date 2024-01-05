@@ -2,7 +2,7 @@ repo_name: hicmtrex/hicmtrex
 report_id: 5fafcf320bbc5bc8f0966bdf45dd8f0b
 version: 0.1
 repo_type: Public
-timestamp: '2023-12-21T15:40:44+00:00'
+timestamp: '2024-01-05T08:17:34+00:00'
 requested_by: hicmtrex
 provider: github
 branch: main
@@ -16,4 +16,5 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/hicmtrex/hicmtrex
   detection_source: Repo Metadata
